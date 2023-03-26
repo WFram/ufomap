@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/wfram/ufomap_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/wfram/ufomap_ws/src/ufomap/ufomap/include/**",
+        "/home/wfram/ufomap_ws/src/ufomap/ufomap_ros/ufomap_mapping/include/**",
+        "/home/wfram/ufomap_ws/src/ufomap/ufomap_ros/ufomap_msgs/include/**",
+        "/home/wfram/ufomap_ws/src/ufomap/ufomap_ros/ufomap_ros/include/**",
+        "/home/wfram/ufomap_ws/src/ufomap/ufomap_ros/ufomap_rviz_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
